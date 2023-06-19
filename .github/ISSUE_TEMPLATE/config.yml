@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: Get Help
-    url: https://github.com/adonisjs/core/discussions/new?category=japa
-    about: If you can't get something to work the way you expect, ask a question in our discussion forums.
+    url: https://github.com/vinejs/vine/issues/new?title=Question%20-%20%3CYOUR%20QUESTION%3E
+    about: If you can't get something to work the way you expect, create an issue prefixed with "Question".
   - name: Feature Request
-    url: https://github.com/japa/runner/issues/new
+    url: https://github.com/vinejs/vine/issues/new?title=Discussion%20for%20a%20new%20feature%20-%20%3CYOUR%20FEATURE%20NAME%3E
     about: Suggest any ideas you have by creating a new issue
   - name: Documentation issue
-    url: https://github.com/japa/japa.dev/issues/new
+    url: https://github.com/vinejs/vinejs.dev/issues/new
     about: For documentation issues, suggest changes on our documentation repository.
